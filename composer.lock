@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5198a468b530da9d2ea87c9b13687424",
+    "content-hash": "44043e5b109f4bbe725c0b51ddd2a178",
     "packages": [
         {
             "name": "almasaeed2010/adminlte",
@@ -1214,20 +1214,20 @@
         },
         {
             "name": "itstructure/laravel-rbac",
-            "version": "3.0.1",
+            "version": "3.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/itstructure/laravel-rbac.git",
-                "reference": "acec37dc8f08b0f2517c40027a272fe963f44d48"
+                "reference": "ea37d5fc9d0f21eddef1312b5aa5480a27db95f0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/itstructure/laravel-rbac/zipball/acec37dc8f08b0f2517c40027a272fe963f44d48",
-                "reference": "acec37dc8f08b0f2517c40027a272fe963f44d48",
+                "url": "https://api.github.com/repos/itstructure/laravel-rbac/zipball/ea37d5fc9d0f21eddef1312b5aa5480a27db95f0",
+                "reference": "ea37d5fc9d0f21eddef1312b5aa5480a27db95f0",
                 "shasum": ""
             },
             "require": {
-                "itstructure/laravel-grid-view": "~1.0.5",
+                "itstructure/laravel-grid-view": "~1.0.6",
                 "laravel/framework": "^8.0",
                 "php": ">=7.3.0"
             },
@@ -1258,9 +1258,9 @@
             ],
             "support": {
                 "issues": "https://github.com/itstructure/laravel-rbac/issues",
-                "source": "https://github.com/itstructure/laravel-rbac/tree/3.0.1"
+                "source": "https://github.com/itstructure/laravel-rbac/tree/3.0.2"
             },
-            "time": "2021-02-23T08:08:39+00:00"
+            "time": "2021-04-22T14:50:42+00:00"
         },
         {
             "name": "jaybizzle/crawler-detect",
